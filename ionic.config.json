@@ -1,0 +1,7 @@
+{
+  "name": "UNIVAM_Store",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
